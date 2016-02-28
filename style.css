@@ -1,4 +1,8 @@
-header{
-	text-align: center;
-	width: 100%;
+body{
+	background-color: 246068;
+	
+}
+
+#header{
+	hover:color:196, 231, 154;
 }

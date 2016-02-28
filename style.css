@@ -1,6 +1,6 @@
 body{
 	background-color: #A2D9CE;
-	color: #E59866 ;
+	color: #0277BD;
 	
 }
 
@@ -9,6 +9,7 @@ ul{
 	margin:0;
 	padding: 14px 16px;
     background-color: #333;
+
 }
 
 li {
@@ -42,6 +43,7 @@ li a:hover, {
     position: relative;
     display: inline-block;
     width:100px;
+    text-align: center;
 }
 
 .dropdown-content {
@@ -61,4 +63,10 @@ li a:hover, {
 
 .dropdown:hover .dropdown-content {
     display: block;
+}
+
+#welcome_text{
+	text-align: right;
+	margin-top: -200px;
+	padding-right: 90px;
 }

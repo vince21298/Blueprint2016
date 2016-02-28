@@ -10,7 +10,6 @@ body{
 	color: #0277BD;
 }
 
-
 ul{
 	list-style-type: none;
 	margin:0;
@@ -70,35 +69,4 @@ li a:hover, {
 
 .dropdown:hover .dropdown-content {
     display: block;
-}
-
-#login{
-	display: inline;
-	text-align: right;
-}
-
-
-#welcome_text{
-	text-align: right;
-	margin-top: -200px;
-	padding-right: 90px;
-}
-
-hr { 
-    display: block;
-    margin-top: 130px;
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
-    border-style: inset;
-    border-width: 3px;
-    color: black;
-}
-
-#new_account{
-	text-align: center;
-}
-
-#sign_up{
-	text-align: center;
 }
